@@ -1,0 +1,8 @@
+h1 {
+  color: red;
+}
+
+.hero {
+  text-align: center;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
