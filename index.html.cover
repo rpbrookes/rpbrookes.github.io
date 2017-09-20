@@ -1,52 +1,19 @@
-<!-- <html>
-    <head>
-        <title>Ryan Brookes</title>
-        <meta name="author" content="Ryan Brookes">
-        <meta name="description" content="Ryan Brookes' Front-End Sand-Pit"> -->
-<!--         <link rel="stylesheet" type="text/css" href="main.css"/> -->
-<!--         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
-    </head>
-    
-    <body>
-        <div class="hero">
-            <img src="img/photo.JPG" overflow=hidden>
-            <h1>Name</h1>
-            <p>Ryan Brookes</p>
-            <h2>Profile</h2>
-            <p>BSc Software Engeering with Honours graduate from UoS and software engineer at BT</p>
-            <h2>About</h2>
-            <p>This site is somewhere for me to use as a playground for my front-end development.
-            </div>
-            <h2>Interests</h2>
-            <ul>
-                <li>Technology</li>
-                <li>Sports</li>
-                <li>Drums</li>
-            </ul>
-            <p>Here is my favourite video of a duck being vacuumed.</p>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/-n8fn7k9NiE" frameborder="0" allowfullscreen></iframe>
-        </div>
-    </body>
-</html> -->
-
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" href="../../../../favicon.ico">
+    <meta name="description" content="Description">
+    <meta name="author" content="Ryan Brookes">
+    <link rel="icon" href="css/bootstrap-4.0.0-beta/favicon.ico">
 
-    <title>Cover Template for Bootstrap</title>
+    <title>Ryan Brookes: Bootstrap Testing</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="../../../../dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap-4.0.0-beta/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="cover.css" rel="stylesheet">
+    <link href="css/bootstrap-4.0.0-beta/docs/4.0/examples/cover/cover.css" rel="stylesheet">
   </head>
 
   <body>
@@ -69,7 +36,7 @@
           </div>
 
           <div class="inner cover">
-            <h1 class="cover-heading">Cover your page.</h1>
+            <h1 class="cover-heading">Ryan Brookes Cover Page.</h1>
             <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
             <p class="lead">
               <a href="#" class="btn btn-lg btn-secondary">Learn more</a>
