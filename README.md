@@ -42,6 +42,12 @@ then when you wish to use ICON in buttons , labels wherever you just place the t
  
  its the same for everything its just a case of changing ```fa fa-github-alt``` to the icon you wish to use for example.
  
+ ## GOOGLE FONTS
+ 
+ google fonts is an awesome website again use's maxCDN and gets added to your head tags
+ 
+ website - https://fonts.google.com/
+ 
  ## Useful Links
  
  https://bootsnipp.com/ bootstrap Snippets
