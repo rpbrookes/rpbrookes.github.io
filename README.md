@@ -41,3 +41,24 @@ then when you wish to use ICON in buttons , labels wherever you just place the t
  ```<i class="fa fa-github-alt" aria-hidden="true"></i>```
  
  its the same for everything its just a case of changing ```fa fa-github-alt``` to the icon you wish to use for example.
+ 
+ ## Useful Links
+ 
+ https://bootsnipp.com/ bootstrap Snippets
+ 
+ https://unsplash.com/ free to use images
+ 
+ https://designer.io free to use design tool basically a cooler adobe.
+ 
+ https://codepen.io Live frontend playground
+ 
+ http://vivify.mkcreative.cz/ CSS animation
+ 
+ https://laravel.com/ ( this is probably out your skillset for now but useful to look over :) 
+ 
+ https://daneden.github.io/animate.css/ another animation libary.
+ 
+ https://masonry.desandro.com/layout.html MasonryJS effects on containers
+ 
+ *will expand on list as i remember
+
