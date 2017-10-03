@@ -25,4 +25,19 @@ Adding for example /.aboutme in the href ref means you can target a class on the
 
 like your about section and when user clicks about Me in navigation page will move to about container.
 
-*you can use Id's instead aslong as every ID is different 
+*you can use Id's instead aslong as every ID is different
+
+## Using CDN
+
+CDN's are ok in some respect to use and i mainly use on fontawesome or really small things.
+
+
+```<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">```
+<br>
+simply place this in your head tag with the css files
+
+then when you wish to use ICON in buttons , labels wherever you just place the tag
+
+ ```<i class="fa fa-github-alt" aria-hidden="true"></i>```
+ 
+ its the same for everything its just a case of changing ```fa fa-github-alt``` to the icon you wish to use for example.
