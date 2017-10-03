@@ -16,3 +16,13 @@ So far, I've worked on:
 ## Reach Me
 
 If you have any questions about my work or want to get in touch, my handle is @rpbrookes.
+
+## Creating single page navigation
+
+```<a href="/.classname"> About me </a>```
+
+Adding for example /.aboutme in the href ref means you can target a class on the page
+
+like your about section and when user clicks about Me in navigation page will move to about container.
+
+*you can use Id's instead aslong as every ID is different 
