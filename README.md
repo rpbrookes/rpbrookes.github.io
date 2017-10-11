@@ -66,5 +66,9 @@ then when you wish to use ICON in buttons , labels wherever you just place the t
  
  https://masonry.desandro.com/layout.html MasonryJS effects on containers
  
+ http://ianlunn.github.io/Hover/ A great JS library for link/hover over effects.
+ 
+ http://www.zondicons.com/ A fantastic set of SVG icons (simular to that of FontAwesome or Glyphicon)
+ 
  *will expand on list as i remember and you can to also
 
