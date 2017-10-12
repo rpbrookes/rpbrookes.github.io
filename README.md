@@ -68,7 +68,13 @@ then when you wish to use ICON in buttons , labels wherever you just place the t
  
  http://ianlunn.github.io/Hover/ A great JS library for link/hover over effects.
  
- http://www.zondicons.com/ A fantastic set of SVG icons (simular to that of FontAwesome or Glyphicon)
+ http://www.zondicons.com/ A fantastic set of SVG icons (similar to that of FontAwesome or Glyphicon)
+ 
+ https://css-tricks.com/almanac/ Great resource about CSS.
+ 
+ http://www.colorzilla.com/gradient-editor/ CSS Gradient Generator
+ 
+ http://css3generator.com/ Multiple stuff CSS 3 Generator 
  
  *will expand on list as i remember and you can to also
 
