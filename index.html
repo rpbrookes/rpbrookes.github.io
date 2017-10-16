@@ -28,55 +28,70 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">RB</a>
+            <a class="navbar-brand" href="#Home" id="home">RB</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#">Profile</a></li>
-                <li><a href="#">Academia</a></li>
-                <li><a href="#">Interests</a></li>
+                <li><a href="#Profile" id="profile">Profile</a></li>
+                <li><a href="#Academia" id="academia">Academia</a></li>
+                <!-- <li><a href="#Intxerests" id="interests">Interests</a></li> -->
+                <li><a href="/.Interests">Interests </a></li>
             </ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
 </nav>
-<section class="jumbotron">
-    <div class="container">
+
+
+<section class="jumbotron jumbotronHome">
+    <!-- <div class="container"> -->
+    <!-- <div id="Home" onclick="window.location.hash='home'; "> -->
         <div class="text-center">
             <!--THIS CLASS IMG_RESPONSIVE WILL MAKE YOUR IMAGE RESPONSIVE-->
             <!--<img src="assets/images/photo.JPG" class="img-responsive">-->
             <h1 class="text-center">Ryan Brookes</h1>
-            <h4 class="text-center">BT software engineer</h4>
+            <h4 class="text-center">BT Software Engineer</h4>
         </div>
     </div>
 </section>
-<div class="row">
-    <div class="col-md-4">
-        <div class="text-center">
-            <h1>Profile</h1>
-            <p>???</p>
+
+<section class="jumbotron jumbotronProfile">
+    <!-- <div class="container"> -->
+    <div id="Profile" onclick="window.location.hash='profile'; ">
+        <div class="text-left">
+            <!--THIS CLASS IMG_RESPONSIVE WILL MAKE YOUR IMAGE RESPONSIVE-->
+            <!--<img src="assets/images/photo.JPG" class="img-responsive">-->
+            <h1 class="text-left">Profile</h1>
         </div>
     </div>
-    <div class="col-md-4">
-        <div class="text-center">
-            <h1>Academia</h1>
-<!--             <ul class="nav navbar-nav navbar-right"> -->
-            <div class="text-left">
-                <ul>
-                    <li>FdSc Network and Communication Technologies</li>
-                    <li>BSc Software Engineering</li>
-                </ul>
-            </div>
+</section>
+
+<section class="jumbotron jumbotronAcademia">
+    <!-- <div class="container"> -->
+    <div id="Academia" onclick="window.location.hash='academia'; ">
+        <div class="text-left">
+            <!--THIS CLASS IMG_RESPONSIVE WILL MAKE YOUR IMAGE RESPONSIVE-->
+            <!--<img src="assets/images/photo.JPG" class="img-responsive">-->
+            <h1 class="text-left">Academia</h1>
         </div>
     </div>
-    <div class="col-md-4">
-        <div class="text-center">
-            <h1>Interests</h1>
-            <p>Music; playing the drums, festivals</p>
+</section>
+
+<section class="jumbotron jumbotronInterests">
+    <!-- <div class="container"> -->
+    <div id="Interests" onclick="window.location.hash='interests'; ">
+        <div class="text-left">
+            <!--THIS CLASS IMG_RESPONSIVE WILL MAKE YOUR IMAGE RESPONSIVE-->
+            <!--<img src="assets/images/photo.JPG" class="img-responsive">-->
+            <h1 class="text-left">Interests</h1>
         </div>
     </div>
-</div>
+</section>
+
+
+<!-- ADD A TAKE TO TOP OF PAGE BUTTON HERE -->
+
 
 <footer class="container-fluid footer-style">
     <div class="row">
