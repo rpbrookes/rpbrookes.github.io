@@ -62,6 +62,8 @@ then when you wish to use ICON in buttons , labels wherever you just place the t
  
  https://laravel.com/ ( this is probably out your skillset for now but useful to look over :) 
  
+ https://vuejs.org/ - Simular to that of AngularJS, Vue is a fantastic JS framework (goes hand-in-hand) with Laravel
+ 
  https://daneden.github.io/animate.css/ another animation libary.
  
  https://masonry.desandro.com/layout.html MasonryJS effects on containers
