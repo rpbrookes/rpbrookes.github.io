@@ -62,9 +62,17 @@ then when you wish to use ICON in buttons , labels wherever you just place the t
  
  https://laravel.com/ ( this is probably out your skillset for now but useful to look over :) 
  
+ https://vuejs.org/ - Simular to that of AngularJS, Vue is a fantastic JS framework (goes hand-in-hand) with Laravel
+ 
  https://daneden.github.io/animate.css/ another animation libary.
  
  https://masonry.desandro.com/layout.html MasonryJS effects on containers
+ 
+ http://ianlunn.github.io/Hover/ A great JS library for link/hover over effects.
+ 
+ http://www.zondicons.com/ A fantastic set of SVG icons (simular to that of FontAwesome or Glyphicon)
+ 
+ https://realfavicongenerator.net/ A one-stop shop for generation of Favicons, mobile-app icons and Apple Touchbar icons.
  
  *will expand on list as i remember and you can to also
 
