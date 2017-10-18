@@ -16,6 +16,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
+
 <body>
 <nav class="navbar navbar-default navbar-fixed-top">
     <div class="container-fluid">
@@ -28,74 +29,62 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#Home" id="home">RB</a>
+            <a class="navbar-brand" href="#jumbotronHome" id="home">RB</a>
         </div>
-
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#Profile" id="profile">Profile</a></li>
-                <li><a href="#Academia" id="academia">Academia</a></li>
-                <!-- <li><a href="#Intxerests" id="interests">Interests</a></li> -->
-                <li><a href="/.Interests">Interests </a></li>
+                <li><a href="#jumbotronProfile" id="profile">Profile</a></li>
+                <li><a href="#jumbotronAcademia" id="academia">Academia</a></li>
+                <li><a href="#jumbotronInterests" id="interests">Interests</a></li>
             </ul>
-        </div><!-- /.navbar-collapse -->
-    </div><!-- /.container-fluid -->
+        </div>
+    </div>
 </nav>
 
-
-<section class="jumbotron jumbotronHome">
-    <!-- <div class="container"> -->
-    <!-- <div id="Home" onclick="window.location.hash='home'; "> -->
+<section class="jumbotron jumbotronHome" id="jumbotronHome">
+    <a name="top"></a>
         <div class="text-center">
             <!--THIS CLASS IMG_RESPONSIVE WILL MAKE YOUR IMAGE RESPONSIVE-->
             <!--<img src="assets/images/photo.JPG" class="img-responsive">-->
             <h1 class="text-center">Ryan Brookes</h1>
             <h4 class="text-center">BT Software Engineer</h4>
         </div>
-    </div>
 </section>
 
-<section class="jumbotron jumbotronProfile">
-    <!-- <div class="container"> -->
-    <div id="Profile" onclick="window.location.hash='profile'; ">
+<section class="jumbotron jumbotronProfile" id="jumbotronProfile">
         <div class="text-left">
-            <!--THIS CLASS IMG_RESPONSIVE WILL MAKE YOUR IMAGE RESPONSIVE-->
             <!--<img src="assets/images/photo.JPG" class="img-responsive">-->
             <h1 class="text-left">Profile</h1>
+            <!-- <p>A bit about me in general and my work goes here</p> -->
+            <p>Welcome to my (very first) web-site! It is meant to serve as a platform both for you to read a bit about
+                me, and for me to use it as a playground for front-end development</p>
+            </p>
+            <!-- Split this bit into two columns so text lives on the left, and choose a less busy background image -->
         </div>
-    </div>
 </section>
 
-<section class="jumbotron jumbotronAcademia">
-    <!-- <div class="container"> -->
-    <div id="Academia" onclick="window.location.hash='academia'; ">
+<section class="jumbotron jumbotronAcademia" id="jumbotronAcademia">
         <div class="text-left">
             <!--THIS CLASS IMG_RESPONSIVE WILL MAKE YOUR IMAGE RESPONSIVE-->
             <!--<img src="assets/images/photo.JPG" class="img-responsive">-->
             <h1 class="text-left">Academia</h1>
+            <p>GCSE's, A-Levels, FdSc and Bsc go here</p>
+            <p>I have completed studies at the following institutions:</p>
         </div>
-    </div>
 </section>
 
-<section class="jumbotron jumbotronInterests">
-    <!-- <div class="container"> -->
-    <div id="Interests" onclick="window.location.hash='interests'; ">
+<section class="jumbotron jumbotronInterests" id="jumbotronInterests">
         <div class="text-left">
-            <!--THIS CLASS IMG_RESPONSIVE WILL MAKE YOUR IMAGE RESPONSIVE-->
-            <!--<img src="assets/images/photo.JPG" class="img-responsive">-->
             <h1 class="text-left">Interests</h1>
+            <p>Music, sports and fitness and development go here</p>
         </div>
-    </div>
 </section>
-
-
-<!-- ADD A TAKE TO TOP OF PAGE BUTTON HERE -->
-
 
 <footer class="container-fluid footer-style">
     <div class="row">
-        <p class="col-sm-4">&copy; 2017 RB</p>
+        <p class="col-sm-2">&copy; 2017 RB</p>
+        <a class="col-sm-2" href="#jumbotronHome">Link to Top</a>
         <ul class="col-sm-8">
             <a href="https://www.twitter.com/rpbrookes">
                 <li class="col-sm-1"><img

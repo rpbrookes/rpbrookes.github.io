@@ -50,8 +50,14 @@ header p {
 }
 
 .jumbotron {
-  padding-top: 100px;
+  padding-top: 6em;
+  color:#fff;
+  margin: 0;  
 }
+
+/* .jumbotron h1 {
+    font-size: 50px;
+} */
 
 .jumbotron h4 {
     font-size: 25px;
@@ -63,10 +69,6 @@ header p {
     background-image: url("../images/desk.jpg");
     background-size: cover;
     background-position: center;
-    /*background-repeat: no-repeat;*/
-    /*padding-top: 150px;*/
-    margin: 0;
-    color:#fff;
 }
 
 .jumbotronProfile {
@@ -75,10 +77,6 @@ header p {
     background-image: url("../images/city.jpg");
     background-size: cover;
     background-position: center;
-    /*background-repeat: no-repeat;*/
-    /*padding-top: 50px;*/
-    margin: 0;
-    color:#fff;
 }
 
 .jumbotronAcademia {
@@ -87,10 +85,6 @@ header p {
     background-image: url("../images/academia.jpg");
     background-size: cover;
     background-position: center;
-    /*background-repeat: no-repeat;*/
-    /*padding-top: 50px;*/
-    margin: 0;
-    color:#fff;
 }
 
 .jumbotronInterests {
@@ -99,10 +93,6 @@ header p {
     background-image: url("../images/music.jpg");
     background-size: cover;
     background-position: center;
-    /*background-repeat: no-repeat;*/
-    /*padding-top: 50px;*/
-    margin: 0;
-    color:#fff;
 }
 
 section .row img {
