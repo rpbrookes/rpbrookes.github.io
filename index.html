@@ -29,14 +29,14 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#jumbotronHome" id="home">RB</a>
+            <a class="navbar-brand" href="#jumbotronHome" id="home" class="smoothScroll">RB</a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#jumbotronProfile" id="profile">Profile</a></li>
-                <li><a href="#jumbotronAcademia" id="academia">Academia</a></li>
-                <li><a href="#jumbotronInterests" id="interests">Interests</a></li>
+                <li><a href="#jumbotronProfile" id="profile" class="smoothScroll">Profile</a></li>
+                <li><a href="#jumbotronAcademia" id="academia" class="smoothScroll">Academia</a></li>
+                <li><a href="#jumbotronInterests" id="interests" class="smoothScroll">Interests</a></li>
             </ul>
         </div>
     </div>
@@ -55,37 +55,33 @@
         <div class="text-left">
             <!--<img src="assets/images/photo.JPG" class="img-responsive">-->
             <h1 class="text-left">Profile</h1>
-            <!-- <p>A bit about me in general and my work goes here</p> -->
-            <p>Welcome to my (very first) web-site!</p>
-            <p>This will serve as a platform both for you to read a bit about
-                me, and for me to use it as a playground for front-end development</p>
-            <!-- Split this bit into two columns so text lives on the left, and choose a less busy background image -->
+            <div class="text-center">
+              <h4>Welcome to my (very first) web-site!</h4>
+              <h4>Read about me and see changes here as I learn more</h4>
+              <!-- Split this bit into two columns so text lives on the left, and choose a less busy background image -->
+            </div>
         </div>
 </section>
-
-
-<!-- Split the below sections into the three columns like Dan did and have the content in the middle -->
-
 
 <section class="jumbotron jumbotronAcademia" id="jumbotronAcademia">
         <div class="text-left">
             <!--THIS CLASS IMG_RESPONSIVE WILL MAKE YOUR IMAGE RESPONSIVE-->
             <!--<img src="assets/images/photo.JPG" class="img-responsive">-->
             <h1 class="text-left">Academia</h1>
-            <h4>Achievements Include:</h4>
-            <div class="col-sm-4">
-                <p>High School:</p>
-                <p>GCSE</p>
-            </div>
-            <!-- <p>Holbrook High School: GCSE</p> -->
-            <div class="col-sm-4">
-                <p>Farlingaye Sixth Form: A-Level</p>
-                <p>A-Level</p>
-            </div>
-            <div class="col-sm-4">
-                <p>University of Suffolk: 
-                <p>FdSc Network and Communications Technologies</p>
-                <p>BSc Software Engineering</p>    
+            <div class="text-center">
+              <div class="col-sm-4">
+                  <h4>High School</h4>
+                  <p>- GCSE</p>
+              </div>
+              <div class="col-sm-4">
+                  <h4>Farlingaye Sixth Form</h4>
+                  <p>- A-Level</p>
+              </div>
+              <div class="col-sm-4">
+                  <h4>University of Suffolk</h4>
+                    <p>- FdSc Network and Communications Technologies</p>
+                    <p>- BSc Software Engineering: 1st Class Honours</p>
+              </div>
             </div>
         </div>
 </section>
@@ -93,21 +89,24 @@
 <section class="jumbotron jumbotronInterests" id="jumbotronInterests">
         <div class="text-left">
             <h1 class="text-left">Interests</h1>
-            <p>Music, sports and fitness and development go here</p>
-            <h4>Achievements Include:</h4>
-            <div class="col-sm-4">
-                <p>High School:</p>
-                <p>GCSE</p>
-            </div>
-            <!-- <p>Holbrook High School: GCSE</p> -->
-            <div class="col-sm-4">
-                <p>Farlingaye Sixth Form: A-Level</p>
-                <p>A-Level</p>
-            </div>
-            <div class="col-sm-4">
-                <p>University of Suffolk: 
-                <p>FdSc Network and Communications Technologies</p>
-                <p>BSc Software Engineering</p>    
+            <div class="text-center">
+              <div class="col-sm-4">
+                  <h4>Music</h4>
+                  <p>- Playing drums</p>
+                  <p>- Festivals/gigs</p>
+              </div>
+              <div class="col-sm-4">
+                  <h4>Health</h4>
+                  <p>- Football (weight-lifting and running)</p>
+                  <p>- Weight-lifting</p>
+                  <p>- Running</p>
+                  <p>- Nutrition</p>
+              </div>
+              <div class="col-sm-4">
+                  <h4>Development</h4>
+                  <p>- Python</p>
+                  <p>- HTML/CSS</p>
+              </div>
             </div>
         </div>
 </section>
@@ -115,7 +114,7 @@
 <footer class="container-fluid footer-style">
     <div class="row">
         <p class="col-sm-2">&copy; 2017 RB</p>
-        <a class="col-sm-2" href="#jumbotronHome">Link to Top</a>
+        <a class="col-sm-2" href="#jumbotronHome" class="smoothScroll">Link to Top</a>
         <ul class="col-sm-8">
             <a href="https://www.twitter.com/rpbrookes">
                 <li class="col-sm-1"><img
@@ -140,5 +139,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="assets/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="assets/js/smoothscroll.js"></script>
 </body>
 </html>
