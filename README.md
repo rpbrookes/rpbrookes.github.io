@@ -74,5 +74,15 @@ then when you wish to use ICON in buttons , labels wherever you just place the t
  
  https://realfavicongenerator.net/ A one-stop shop for generation of Favicons, mobile-app icons and Apple Touchbar icons.
  
+ https://atom.io/ - A flexible and open-source IDE with support for various languages such as C, C++, PHP, Python to name a few.
+ 
+ https://www.jetbrains.com/phpstorm/ The "only" PHP IDE you'll need!
+ 
+ https://www.jetbrains.com/webstorm/ Although the features provided by WebStorm are also supplied in PHPStorm, WebStorm is a great IDE if you're working on Javascript/NodeJS apps.
+ 
+ 
+ 
  *will expand on list as i remember and you can to also
+
+
 
