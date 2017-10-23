@@ -12,13 +12,18 @@ body, html {
     padding-top:10px;
     font-size: 1.5rem;
 }
-.navbar.navbar-default li a{
+
+.navbar.navbar-default li a {
     color:#fff;
 }
 
 .navbar-default .navbar-brand {
-    color: #ffffff;
+  color: #fff;
     font-size: 2rem;
+}
+
+navbar-brand a {
+  color: #fff;
 }
 
 .footer-style{
