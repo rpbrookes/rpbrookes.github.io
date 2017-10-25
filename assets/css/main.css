@@ -19,11 +19,11 @@ body, html {
 
 .navbar-default .navbar-brand {
   color: #fff;
-    font-size: 2rem;
+  font-size: 2rem;
 }
 
-navbar-brand a {
-  color: #fff;
+.navbar-brand:hover, .navbar-brand:focus {
+  color: black;
 }
 
 .footer-style{
