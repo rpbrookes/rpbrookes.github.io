@@ -63,7 +63,7 @@ header p {
 
  .jumbotron h1 {
     font-size: 8rem;
-    padding-bottom: 1rem;
+    padding-bottom: 2rem;
     text-shadow: 2px 2px 4px #000000;
 }
 
@@ -111,6 +111,10 @@ header p {
     background-position: center;
 }
 
+/*.jumbotronInterests p {
+  text-align: left;
+}*/
+
 section .row img {
     margin: 0 0 30px;
     width: 100%;
@@ -143,18 +147,20 @@ section .row img {
 footer {
     font-size: 12px;
     padding: 20px 0;
+    color: white;
 }
 
-footer .col-sm-8 {
-    display: flex;
-    justify-content: flex-end;
+footer a {
+  color: white;
 }
 
 footer ul {
     list-style: none;
+    display: flex;
+    justify-content: flex-end;
 }
 
 footer li img {
-    width: 32px;
-    height: 32px;
+    width: 3rem;
+    height: 3rem;
 }
