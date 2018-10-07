@@ -80,5 +80,9 @@ then when you wish to use ICON in buttons , labels wherever you just place the t
  
  https://regexr.com/ Awesome for visually checking/testing out Regular Expression rules online.
  
+ http://hacktoberfestchecker.herokuapp.com/?username=iiCe89 for checking HacktoberFest
+
+ https://www.creativeboom.com/resources/50-fresh-essential-and-free-resources-for-your-graphic-design-projects/ Design list
+ 
  *will expand on list as i remember and you can to also
 
