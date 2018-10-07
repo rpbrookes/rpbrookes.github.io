@@ -1,23 +1,23 @@
-# Welcome!
+## Welcome!
 
 You've reached the GitHub repository of Ryan Brookes - what a time to be alive.
 
-## About Me
+### About Me
 
 I'm a software engineer for BT and programming enthusiast. I am trying to study in my free time so I can improve my game during paid time. Whether that's working remains to be seen...
 
-## Projects
+### Projects
 
 So far, I've worked on:
 
 * ImageJ/Leap Motion: Yet to upload work in this area but it was done as part of my dissertation
 * My super basic front page, which is just a playground for me to try front-end technologies: rpbrookes.github.io
 
-## Reach Me
+### Reach Me
 
 If you have any questions about my work or want to get in touch, my handle is @rpbrookes.
 
-## Creating single page navigation
+### Creating single page navigation
 
 ```<a href="/.classname"> About me </a>```
 
@@ -27,7 +27,7 @@ like your about section and when user clicks about Me in navigation page will mo
 
 *you can use Id's instead aslong as every ID is different
 
-## Using CDN
+### Using CDN
 
 CDN's are ok in some respect to use and i mainly use on fontawesome or really small things.
 
@@ -42,13 +42,13 @@ then when you wish to use ICON in buttons , labels wherever you just place the t
  
  its the same for everything its just a case of changing ```fa fa-github-alt``` to the icon you wish to use for example.
  
- ## GOOGLE FONTS
+ ### GOOGLE FONTS
  
  google fonts is an awesome website again use's maxCDN and gets added to your head tags
  
  website - https://fonts.google.com/
  
- ## Useful Links
+ ### Useful Links
  
  https://bootsnipp.com/ bootstrap Snippets
  
@@ -73,6 +73,8 @@ then when you wish to use ICON in buttons , labels wherever you just place the t
  http://www.zondicons.com/ A fantastic set of SVG icons (simular to that of FontAwesome or Glyphicon)
  
  https://realfavicongenerator.net/ A one-stop shop for generation of Favicons, mobile-app icons and Apple Touchbar icons.
+
+ http://www.colorbox.io/ Find and make color palettes
  
  *will expand on list as i remember and you can to also
 
