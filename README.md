@@ -44,7 +44,7 @@ then when you wish to use ICON in buttons , labels wherever you just place the t
  
  ### GOOGLE FONTS
  
- google fonts is an awesome website again use's maxCDN and gets added to your head tags
+ Google Fonts is an awesome website that use's maxCDN and gets added to your head tags
  
  website - https://fonts.google.com/
  
@@ -75,6 +75,10 @@ then when you wish to use ICON in buttons , labels wherever you just place the t
  https://realfavicongenerator.net/ A one-stop shop for generation of Favicons, mobile-app icons and Apple Touchbar icons.
 
  http://www.colorbox.io/ Find and make color palettes
+ 
+ https://tableplus.io/ A cross-platform RMDBS/No-SQL GUI client (includes support for MSSQL)
+ 
+ https://regexr.com/ Awesome for visually checking/testing out Regular Expression rules online.
  
  *will expand on list as i remember and you can to also
 
