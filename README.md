@@ -83,6 +83,10 @@ then when you wish to use ICON in buttons , labels wherever you just place the t
  http://hacktoberfestchecker.herokuapp.com/?username=iiCe89 for checking HacktoberFest
 
  https://www.creativeboom.com/resources/50-fresh-essential-and-free-resources-for-your-graphic-design-projects/ Design list
- 
+
+ https://figma.com for designing mockups in live collaboration
+
+ Https://framerx.com for creating mockups in reactJS and visually
+
  *will expand on list as i remember and you can to also
 
